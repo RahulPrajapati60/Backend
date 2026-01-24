@@ -2,7 +2,7 @@
 
 ## Express.js Basics
 
-Express.js is a fast, minimal, and flexible Node.js web framework. Its core functionality revolves around three main concepts:
+Express.js is a fast, minimal, and flexible Node.js web framework. Its core functionality revolves around three main concepts
 
 
 1. **Routing**
