@@ -4,7 +4,7 @@
 
 **Error handling** is how we **detect**, **control**, and **respond** when something goes wrong in our program instead of letting it crash.
 
- Examples of errors:
+ Examples of errors
 
 * Invalid user input
 * API call fails
