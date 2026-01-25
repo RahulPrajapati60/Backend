@@ -2,7 +2,7 @@
 
 # 1️⃣ What is Error Handling
 
-**Error handling** is how we **detect**, **control**, and **respond** when something goes wrong in our program instead of letting it crash.
+Error Handling **Error handling** is how we **detect**, **control**, and **respond** when something goes wrong in our program instead of letting it crash.
 
  Examples of errors
 
