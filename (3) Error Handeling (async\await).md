@@ -122,7 +122,7 @@ try {
 }
 ```
 
- Used for:
+ Used for
 
 * Closing DB connections
 * Releasing resources
@@ -167,7 +167,7 @@ setTimeout(() => {
 console.log("World");
 ```
 
-Output:
+Output
 
 ```
 World
@@ -227,7 +227,7 @@ async function fetchData() {
 }
 ```
 
-Actually returns:
+Actually returns
 
 ```js
 Promise.resolve("Hello")
